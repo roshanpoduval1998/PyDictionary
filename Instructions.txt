@@ -1,0 +1,8 @@
+Save - Ctrl+S
+Print - Ctrl+P
+Instructions - Ctrl+I
+Clear - Ctrl+C or Delete
+Speak - Ctrl+Q
+Histroy - Ctrl+H
+Random Word - Ctrl+R
+Submit Word - Enter
